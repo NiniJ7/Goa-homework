@@ -1,0 +1,8 @@
+syntax - წერის წესები
+() - ფრჩხილები
+'' - ბრჭყალები
+variable - ცვლადი
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+paragraph - ტექსტი
+header - სათაური
