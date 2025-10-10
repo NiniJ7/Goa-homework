@@ -1,0 +1,30 @@
+#!/bin/bash
+
+git rm --cached .DS_Store
+git rm --cached -r .history/
+git rm --cached "level 01/.DS_Store"
+git rm --cached "level 01/Classwork/.DS_Store"
+git rm --cached "level 01/Classwork/level 03/classwork"
+git rm --cached "level 01/Classwork/level 03/level 00/.DS_Store"
+git rm --cached "level 01/Classwork/level 03/level 00/Classwork/.DS_Store"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/.DS_Store"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/level 03/classwork"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/level 03/homework.html"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/level 03/task1.html"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/level 03/task2.html"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/main.py"
+git rm --cached "level 01/Classwork/level 03/level 01/Classwork/test"
+git rm --cached "level 01/Classwork/level 04/classwork"
+git rm --cached "level 01/Classwork/level 04/homework
+
+
+Y
+
+chmod +x cleanup.sh
+./cleanup.sh
+
+
+
+
+
+
