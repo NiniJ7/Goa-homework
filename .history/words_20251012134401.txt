@@ -52,3 +52,28 @@ unorder - დაულაგებელი
 bullet - წერტილოვანი
 explicit - ხელოვნური
 intplicit - ბუნებრივი
+size - ზომა
+label - ეტიკეტი
+width - სიგანე
+height - სიმაღლე
+pair - წყვილი
+aspect ratio - თანაფარდობა
+change - შეცვლა
+distortion - დამახინჯება
+additional - დამატებითი
+correctly - სწორად
+specified - დაზუსტებული
+
+shape - ფორმა
+navigation - ნავიგაცია
+multiple - მრავალი
+single  - ერთი
+impact - გავლენა
+set - კომპლექტი
+extension - გაფართოება
+mark - მონიშვნა
+unique - უნიკალური, განუმეორებელი
+target - სამიზნე
+targets - უმიზნებს, მიუთითებს
+id - უნიკალური ნომერი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა
