@@ -1,0 +1,115 @@
+<!-- 5) შექმენით ანალოგიური სარეგისტრაციო ფორმა: (ჩამოსაშლელ მეინუში უნდა იყოს ყველა option რომელიც ჩანს სურათზე) -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Application Form</h1>
+    <form>
+        <label for="firstname">First Name:</label>
+        <input type="text" id="firstname" name="firstname" required>
+
+        <label for="lastname">Last Name:</label>
+        <input type="text" id="lastname" name="lastname" required>
+
+        <br>
+
+        <label for="birth">Date of birth:</label>
+        <input type="date" id="birth" name="birth" required>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age" required>
+
+        <br>
+
+        <label for="gender">Gender:</label>
+
+        <label for="male">Male:</label>
+        <input type="radio" id="male" name="gender" value="male">
+
+        <label for="female">Female:</label>
+        <input type="radio" id="female" name="gender" value="female">
+
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" required>
+
+
+
+        <br>
+
+        <label for="position">Position Appliying For:</label>
+        <select>
+            <option value="juniordeveloper">Junior Developer</option>
+            <option value="midleveldeveloper">Mid-level Developer</option>
+            <option value="seniordeveloper">Senior Developer</option>
+        </select>
+
+        <br>
+        
+        <label for="experience">Years of Experience:</label>
+        <select>
+            <option value="0-1years">0-1 years</option>
+            <option value="1-3">1-3 years</option>
+            <option value="3-5">3-5 years</option>
+            <option value="5+">5+ years</option>
+        </select>
+
+        <br>
+
+        <label for="programminglanguage">Preferred Programming Language:</label>
+        <select>
+            <option value="java">Java</option>
+        <option value="Javascript">JavaScript</option>
+        <option value="python">Python</option>
+        <option value="c#">C#</option>
+        </select>
+
+        <br>
+
+        <label for="joblocation">Preferred Job Location:</label>
+        <select>
+            <option value="remote">Remote</option>
+            <option value="NY">New York</option>
+            <option value="sanfrancisco">San Francisco</option>
+            <option value="london">London</option>
+        </select>
+
+        <br>
+
+        <label for="pass">Password</label>
+        <input type="password" id="pass" name="password">
+
+        <label for="confirmpass">Confirm Password</label>
+        <input type="password" id="confirmpass" name="confirmpassword">
+
+        <br>
+
+        <input type="submit">
+        <input type="reset">
+
+
+    </form>
+</body>
+</html>
+
+
+<!-- 8) შექმენით საიტი, რომელზეც დაამატებთ თქვენთვის სასურველ ვიდეოს (თუ ვიდეო არ გაქვთ გამოიყენეთ რესურსები) მინიმუმ 2 ფორმატში: mp4 და mkv შეეცადეთ დაიცვათ სტრუქტურა -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <video controls>
+        <source src="" type="video/mp4">
+        <source src="" type="video/mkv">
+    </video>
+</body>
+</html>

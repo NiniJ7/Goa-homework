@@ -1,0 +1,88 @@
+<!-- 
+    <form></form> - container თეგი , რომელიც წარმოადგენს ერთგვარ კითხვარს და აერთიანებს საიტზე მოცემულ ისეთ ელემენტებს რომლებიც იღებენ ინფორმაციას მომხმარებლისგან -->
+
+    <!-- 
+    <label></label> - containar თეგი, წარმოადგენს შესატანი ველის იარლიყს რომელიც მიგვითითებს იმაზე თუ რა ინფორმაცია უნდა შევიტანოთ ველში
+
+    type - განსაზღვრავს როგორი შესატანი ველია დანიშნულების მიხედვით
+    id - ვიყენბთ იმისთვის რომ გამოვარჩიოთ ელემენტი საიტზე
+    for - მისი საშუალებით ვაკავშირებთ შესატან ველს იარლიყთან
+    name - ვადგენთ თუ მონაცემთა ბაზაში სად უნდა წავიდეს ინფორმაცია
+    value - ადგენს რა ინფორმაცია უნდა გააგზავნოს ბაზაში
+    required - ამ ატრიბუტს არ სჭირდება მნიშვნელობა, (= და ბრჭყალები) შესატან ველს ანიჭებდ აუცილებლად შესავსების სტატუსს
+    -->
+
+
+    <!-- 3) შექმენით ერთგვერდიანი ვებსაიტი GOA-ს შესახებ, რომელზეც დაამატებთ ნავიგაციას, საიტზე უნდა იყოს მინიმუმ 3 სხვადასხვა სექცია. ამასთან აუცილებლად უნდა იყოს ფორმა, რომლის საშვალებითაც სტუმარი შეძლებს GOA-ში რეგისტრაციას და ჩადობას -->
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Goa single page web</h1>
+        <nav>
+            <ul>
+                
+                    <li><a href="#About Goa">About Goa</a></li>
+                    <li><a href="#Goa projects">Goa projects</a></li>
+                    <li><a href="#syllabus">Syllabus</a></li>
+                    <li><a href="#Contact us">Contact us</a></li>
+            
+            </ul>
+        </nav>
+
+        <h2 id="Top">Top of the page</h2>
+        <h2 id="About Goa">About Goa</h2>
+        <h2 id="Goa projects">Goa projects</h2>
+        <h2 id="syllabus">syllabus</h2>
+        <h2 id="Contact us">Contact us</h2>
+
+        <a href="#">Top of the page</a>
+
+        <h1>Registration</h1>
+        <form>
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" required>
+
+            <br>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <br>
+
+            <label for="pass">Password</label>
+            <input type="password" id="pass" name="password" required>
+
+            <br>
+
+            <label for="">Select Gender</label>
+
+            <br>
+
+            <label for="male">Male</label>
+            <input type="radio" id="male" name="gender" value="male" >
+
+            <label for="female">Female</label>
+            <input type="radio" id="female" name="gender" value="female" >
+
+            <br>
+
+            <label for="birth">Date of birth</label>
+            <input type="date" id="birth" name="birth" rquired >
+
+            <input type="checkbox" id="terms" name="agreed to terms" required >
+            <label for="terms">Agree to terms & conditions</label>
+
+            <br>
+
+            <input type="submit" >
+
+        </form>
+
+    </body>
+    </html>

@@ -77,3 +77,86 @@ target - სამიზნე
 targets - უმიზნებს, მიუთითებს
 id - უნიკალური ნომერი
 form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+loop - მარყუჟი, ციკლი
+sequencing - მიმდევრობა
+iteration - გამეორება
+shape - ფორმა
+navigation - ნავიგაცია
+multiple - მრავალი
+single  - ერთი
+impact - გავლენა
+set - კომპლექტი
+extension - გაფართოება
+mark - მონიშვნა
+unique - უნიკალური, განუმეორებელი
+target - სამიზნე
+checkbox - მოსანიშნი ყუთი
+targets - უმიზნებს, მიუთითებს
+id - უნიკალური ნომერი
+for - ამისთვის (რაღაცისთვის)
+hit area - მონიშვნის ფართობი
+top - ზევით
+label - ეტიკეტი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+comparsion - შედარება
+arithmetic operator - არითმეტიკული ოპერატორი
+comparsion operator - შედარების ოპერატორი
+logical operator - ლოგიკური ოპერატორი
+and - და
+or - ან
+result - შედეგი
+circut - წრედი
+switch - გადართვა/გადამრთველი
+binary - ორობითი
+thing - საგანი
+digital - ციფრული
+boolean - მონაცემთა ტიპი 2 შესაძლო მნიშვნელობით: True, False
+unit - საზომი ერთეული
+trigger - გაღიზიანება, გამოწვევა
+combination - ვარიანტი
+accurate - ზუსტი
+detect - დადგენა
+uppercase - დიდი ასო
+lowercase - პატარა ასო
+degree - გრადუსი
+presence - ყოფნა
+combine - გაერთიანება
+solve problem - პროგრამის მოგვარება
+control flow - დინების მართვა
+techniques - ტექნიკები
+sequence - თანმიმდევრობა
+iteration - გამეორება
+selection - შერჩევა
+order - თანმდიმდევრობა
+top - ზემოთ
+bottom - ქვემოთ
+repeat - გამეორება
+algorithm - ნაბიჯ-ნაბიჯ ინსტრუქციები
+follow path - გზას გაყოლა
+notify - შეტყობინება
+range - დიაპაზონი
+represent - წარმოდგენა
+flowchart - დიაგრამა
+pseudocode - ფსევდოკოდი
+natural language - ბუნებრივი გზა
+different ways - სხვადასხვანაირად
+range - დიაპაზონი
+loop - მარყუჟი, ციკლი, გამეორება
+iteration - გამეორება
+keyword - რეზერვირებული სიტყვა ენაში
+iterable - პროგრამირებაში დალაგებული მიმდევრობა
+sum - ჯამი
+while - რაღაცის განმავლობაში, იქამდე სანამ
+infinite - უსასრულო
+condition - პირობა
+initial  - საწყისი
+drop-down menu - ჩამოსაშლელი მენიუ
+select - არჩევა
+option - ვარიანტი
+choice - არჩევანი
+pre-selected - წინასწარ არჩეული
+audio - ხმა
+autoplay - ავტომატური ჩართვა
+loop - ციკლი, მარუჟი
+muted - დამუნჯებული, ხმა გათიშული
+control - მართვა
