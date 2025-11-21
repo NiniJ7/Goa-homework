@@ -181,3 +181,25 @@ item - ელემენტი
 list - სია
 index - პოზიცია
 square brackets - კვადრატული ბრჩხილები
+
+refer - მითითება
+mutable - შეცვლადი
+immutable - მნიშვნელობას ვერ შევუცვლით
+slice - ნაჭერი/ჩამოჭრა
+start - დასაწყისი
+stop - დასასრული
+step - ნაბიჯი
+negative - უარყოფითი
+Inline - ხაზში
+Internal - შიდა
+External - გარე
+
+colon - ორწერტილი
+semicolon - წერტილმძიმე
+comma - მძიმე
+curly braces - ფიგურული ბრჩხილები
+CSS Rule - კოდი რომელიც სტილავს ელემენტებს
+Selector - 
+Declaration - კუთვნილებისა და მნიშვნელობის წყვილი
+Property - კუთვნილებისა
+Value - მნიშვნელო

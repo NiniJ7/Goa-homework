@@ -41,3 +41,42 @@ print(numbers[1::2])
 name = "Nini Jorbenadze"
 print(name[0:4])
 print(name[5:])
+
+# 10) მომხმარებელს შემოატანინეთ სიტყვა, შემდეგ if-ით შეამოწმეთ ეს სიტყვა თუ თავისი თავის ტოლია როდესაც შემოაბრუნებთ (slicing-ის დახმარებით), თუ ასეა დაბეჭდეთ რომ განსაკუთრებული (ასეთ სიტყვებს palindrome ჰქვია) სიტყვაა, სხვა შემთხვევაში კი დაბეჭდეთ რომ ჩვეულებრივი სიტყვაა
+
+word = input("Enter word: ")
+reversed_word = word[::-1]
+if word == reversed_word:
+    print("ეს სიტყვა არის განსაკუთრებული(palindrome)")
+else:
+    print("ეს ჩვეულებრივი სიტყვაა")
+
+
+# 11) შექმენით სიტყვების სია, შემდეგ მის შემობრუნებულ ვერსიას გადაუარეთ for ციკლით, დაბეჭდეთ ყოველი მეორე ელემენტი (რომ გაიგოთ ყოველი მეორე აიღეთ ცვლადი რომელიც თავიდან 0 იქნება, ყოველ გამეორებაზე კი გაზრდით ერთით და შეამოწმეთ ლუწია თუ კენტი)
+
+words = ["ball", "boat", "hand", "head", "doll", "country", "world"]
+reversed_words = words[::-1]
+
+counter = 0
+for word in reversed_words:
+    if counter % 2 == 0:
+        print(word)
+        counter += 1
+
+
+# 12) მომხმარებელს შემოატანინეთ სიტყვა და დაბეჭდეთ ის შებრუნებულად
+
+word = input("Enter word: ")
+reversed_word = word[::-1]
+print(reversed_word)
+
+
+# 13) შექმენით ცვლადი რომელშიც შეინახავთ თქვენთვის სასურველ string-ს, უნდა იყოს მინიმუმ 20 სიმბოლო, შემდეგ slicing-ის საშვალებით დაბეჭდეთ ეს string ხუთგვარად შემდეგი პირობებით:
+
+string = "Football is the best sport"
+
+print("Fist 5 symbols: ", string[:5])
+print("Last 4 symbols: ", string[-4:])
+print("From 4th to 10th symbols: ", string[3:10])
+print("Reverse whole string: ", string[::-1])
+print("String on every 2nd symbol: ", string[::2])
