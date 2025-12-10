@@ -1,0 +1,8 @@
+ul {
+    list-style-type: disc;
+    list-style-position: outside;
+    list-style-image: url("img adress")
+}
+ol {
+    list-style-type: square ;
+}

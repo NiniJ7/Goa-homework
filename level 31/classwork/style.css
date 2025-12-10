@@ -1,0 +1,53 @@
+/*
+State - ელემენტის მდგომარეობა, ელემენტს აქვს სხვადასხვა მდგომარეობები: კურსორის ქვეშ, კურსორით დავაწექით(არ აგვიშვია მაუსზე ხელი)
+
+pseudo class selector - სელექტორის ტიპი რომელიც გამიყენება ელემენტის კონკრეტული მდგომარეობის გასტილვისთვის
+
+hover - როცა მიიტან კურსორს მოქმედებს
+active - როცა დააწვები მაუსით მაშინ მოქმედებს
+
+<a>
+link - საწყისი მდგომარეობა , არ იცვლება
+visited - მიგვანიშნებს რომ გადასული ვართ მაგალითად ლინკზე ან ბმულზე
+*/
+
+button :hover {
+    background-color: green;
+}
+button :active{
+    box-shadow: 5px 5px 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a :link{
+    color: purple;
+}
+
+a :visited{
+    color: yellow;
+}
+
+#table1 {
+    border: 1px solid  black;
+    border-collapse: collapse;
+}
+thead {
+    background-color: green;
+}
+
+th,#table1 td {
+    border: 1px solid red;
+}
+
+tr:nth-child(even){
+    background-color: gray;
+}
+td:nth-child(2){
+    background-color: purple;
+}
+#table2 {
+    border-collapse: collapse;
+}

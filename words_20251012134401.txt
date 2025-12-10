@@ -1,0 +1,218 @@
+syntax - წერის წესები
+() - ფრჩხილები, parenthesis
+'' / "" - ბრჭყალები, quotation marks
+variable - ცვლადი
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+paragraph - ტექსტი
+header - სათაური
+memory - მეხსიერება
+output - მნიშვნელობის გამოტანა
+numerical value - რიცხვითი მნიშვნელობა
+declare - დეკლარირება/შექმნა
+execeute - გაშვება
+debugging - შეცდომების გამოსწორება
+store - შენახვა
+frontend - საიტის ვიზუალური მხარე, რასთანაც შეხება აქვს მომხმარებელს
+Backend - საიტის ფუნქციონალური მხარე, რომელსაც ჩვენ ვერ ვხედავთ
+HTML - ტექნოლოგია, რომელიც გამოიყენება საიტის სტრუქტურის შესაქმნელად
+CSS - ტექნოლოგია, რომელიც გამოიყენება საიტის დიზაინის შესაქმნელად
+Javascript - ენა, რომლითაც ჩვენი საიტები ხდება ფუნქციონაალური,ინტერაქციული
+interactivity - მოძრავი
+< > - angle brackets, კუთხური ფრჩხილები
+convert - გადაყვანა
+anchor - ღუზა
+text formatting - ტექსტის გასტილვა
+bold - მუქი, გამოკვეთილი
+italic - იტალიური, დახრილი
+underline - ქვედახაზი
+semantic - ემოციური დატვირთვის მქონე
+strong - ძლიერი, მნიშვნელოვია
+emphasis - ემფაზისი
+connect - დაკავშირება
+anchor - ღუზა
+hypertext - ტექსტი რომლის მიღმაც ბმულია
+link - ბმული
+domain name - საიტის სახელის ის ნაწილი რომელიც ყველა მის ქვეგვერდზე იგივე რჩება
+inclusive - მომცველი
+accessible - ხელმისაწვდომი
+format - ფორმატი, სახე
+web accessibility - საიტის თავსებადობა
+screen reader - ეკრანის მკითხველი
+collaboration - თანამშრომლობა
+compatible - თავსებადი
+effective - ეფექტური
+loaded - ჩატვირთული
+indentation - ინდენტაცია (ცარიელი სივრცე ხაზის დასაწყისში)
+best practice - საუკეთესო პრაქტიკა
+matching - შესატყვისი
+attach - მიმაგრება
+order - დალაგებული
+unorder - დაულაგებელი
+bullet - წერტილოვანი
+explicit - ხელოვნური
+intplicit - ბუნებრივი
+size - ზომა
+label - ეტიკეტი
+width - სიგანე
+height - სიმაღლე
+pair - წყვილი
+aspect ratio - თანაფარდობა
+change - შეცვლა
+distortion - დამახინჯება
+additional - დამატებითი
+correctly - სწორად
+specified - დაზუსტებული
+
+shape - ფორმა
+navigation - ნავიგაცია
+multiple - მრავალი
+single  - ერთი
+impact - გავლენა
+set - კომპლექტი
+extension - გაფართოება
+mark - მონიშვნა
+unique - უნიკალური, განუმეორებელი
+target - სამიზნე
+targets - უმიზნებს, მიუთითებს
+id - უნიკალური ნომერი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+loop - მარყუჟი, ციკლი
+sequencing - მიმდევრობა
+iteration - გამეორება
+shape - ფორმა
+navigation - ნავიგაცია
+multiple - მრავალი
+single  - ერთი
+impact - გავლენა
+set - კომპლექტი
+extension - გაფართოება
+mark - მონიშვნა
+unique - უნიკალური, განუმეორებელი
+target - სამიზნე
+checkbox - მოსანიშნი ყუთი
+targets - უმიზნებს, მიუთითებს
+id - უნიკალური ნომერი
+for - ამისთვის (რაღაცისთვის)
+hit area - მონიშვნის ფართობი
+top - ზევით
+label - ეტიკეტი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+comparsion - შედარება
+arithmetic operator - არითმეტიკული ოპერატორი
+comparsion operator - შედარების ოპერატორი
+logical operator - ლოგიკური ოპერატორი
+and - და
+or - ან
+result - შედეგი
+circut - წრედი
+switch - გადართვა/გადამრთველი
+binary - ორობითი
+thing - საგანი
+digital - ციფრული
+boolean - მონაცემთა ტიპი 2 შესაძლო მნიშვნელობით: True, False
+unit - საზომი ერთეული
+trigger - გაღიზიანება, გამოწვევა
+combination - ვარიანტი
+accurate - ზუსტი
+detect - დადგენა
+uppercase - დიდი ასო
+lowercase - პატარა ასო
+degree - გრადუსი
+presence - ყოფნა
+combine - გაერთიანება
+solve problem - პროგრამის მოგვარება
+control flow - დინების მართვა
+techniques - ტექნიკები
+sequence - თანმიმდევრობა
+iteration - გამეორება
+selection - შერჩევა
+order - თანმდიმდევრობა
+top - ზემოთ
+bottom - ქვემოთ
+repeat - გამეორება
+algorithm - ნაბიჯ-ნაბიჯ ინსტრუქციები
+follow path - გზას გაყოლა
+notify - შეტყობინება
+range - დიაპაზონი
+represent - წარმოდგენა
+flowchart - დიაგრამა
+pseudocode - ფსევდოკოდი
+natural language - ბუნებრივი გზა
+different ways - სხვადასხვანაირად
+range - დიაპაზონი
+loop - მარყუჟი, ციკლი, გამეორება
+iteration - გამეორება
+keyword - რეზერვირებული სიტყვა ენაში
+iterable - პროგრამირებაში დალაგებული მიმდევრობა
+sum - ჯამი
+while - რაღაცის განმავლობაში, იქამდე სანამ
+infinite - უსასრულო
+condition - პირობა
+initial  - საწყისი
+drop-down menu - ჩამოსაშლელი მენიუ
+select - არჩევა
+option - ვარიანტი
+choice - არჩევანი
+pre-selected - წინასწარ არჩეული
+audio - ხმა
+autoplay - ავტომატური ჩართვა
+loop - ციკლი, მარუჟი
+muted - დამუნჯებული, ხმა გათიშული
+control - მართვა
+responsive - მორგებადი
+article - სტატია
+section - სექცია
+aside - განზე
+color - ფერი
+background-color - ფონის ფერი
+font-size - შრიფტის ზომა
+font-weight - ტექსტის სისქე
+text-align - ტექსტის განლაგება
+border - საზღვარი
+dash - (-) სიმბოლო
+divide - გაყოფა
+inline element - ელემენტი რომელიც მხოლოდ იმ ადგილს იკავებს რაც სჭირდება
+block level element - ელემენტი რომელიც მთალიანად იკავებს იმ სივრცეს რაც შეუძლია
+ისწავლეთ ახალი სიტყვები:
+
+collection - სიმრავლე
+item - ელემენტი
+list - სია
+index - პოზიცია
+square brackets - კვადრატული ბრჩხილები
+
+refer - მითითება
+mutable - შეცვლადი
+immutable - მნიშვნელობას ვერ შევუცვლით
+slice - ნაჭერი/ჩამოჭრა
+start - დასაწყისი
+stop - დასასრული
+step - ნაბიჯი
+negative - უარყოფითი
+Inline - ხაზში
+Internal - შიდა
+External - გარე
+
+colon - ორწერტილი
+semicolon - წერტილმძიმე
+comma - მძიმე
+curly braces - ფიგურული ბრჩხილები
+CSS Rule - კოდი რომელიც სტილავს ელემენტებს
+Selector - 
+Declaration - კუთვნილებისა და მნიშვნელობის წყვილი
+Property - კუთვნილებისა
+Value - მნიშვნელო
+
+Inline - ხაზში
+Internal - შიდა
+External - გარე
+
+define - განმარტება
+return - დაბრუნება
+parameter - ზოგადი ცვლადი რომელსაც ფუნქციას გადავცემთ დეფინიციისას
+argument - მნიშვნელობა რომელსაც ფუნქციას გადავცემთ გამოძახებისას
+function - კოდის ბლოკი, რომელიც ასრულებს კონკრეტულ დავალებას
+lower - დაპატარავება
+upper - გადიდება
+find - პოვნა

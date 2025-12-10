@@ -1,0 +1,24 @@
+/* Style HTML code*/
+
+body {
+    color: black;
+    font-size: medium;
+    background-color: gray;
+}
+nav {
+    background-color: white;
+    font-size: medium;
+}
+nav a{
+    color: red;
+    font-size: large;
+}
+h1 {
+    color: white;
+    font-size: larger;
+    text-align: center;
+}
+p {
+    color: black;
+    font-size: 32;
+}

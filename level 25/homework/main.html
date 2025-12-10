@@ -1,0 +1,76 @@
+<!-- 2) შექმენით 5 პარაგრაფი, თითოეულში ჩაწერეთ რომელიმე ფერი და გასტილეთ ამავე ფერით id selector-ის საშვალებით, გამოიყენეთ internal css -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #bright {
+            color: red;
+        }
+        #natural {
+            color: green;
+        }
+        #electrick {
+            color: purple;
+        }
+        #deep {
+            color: black;
+        }
+        #light {
+            color: white;
+        }
+    
+    </style>
+</head>
+<body>
+    <p id="bright">red</p>
+    <p id="natural">green</p>
+    <p id="electrick">purple</p>
+    <p id="deep">black</p>
+    <p id="light">white</p>
+</body>
+</html>
+
+<!-- 3) შექმენით სათაური, პარაგრაფი, ღილაკი და კიდევ რამდენიმე ელემენტი. ყველა გასტილეთ ერთიანად class სელექტორის საშვალებით -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .sport {
+            color: black;
+            text-align: center;
+            font-size: 36;
+            background-color: aqua;
+        }
+        button.sport {
+            color: brown;
+            font-size: x-large;
+            border: solid;
+        }
+
+    </style>
+</head>
+<body>
+    <h1 class="sport">Football</h1>
+    <p class="sport">Football is one of the most popular sports in the world</p>
+    <button class="sport">next</button>
+
+    <div class="sport"></div>
+</body>
+</html>
+
+<!-- CSS Specificity
+CSS specificity is a system(algorithm) the browser uses to decide which CSS Rule when multiple rules target the same HTML element.
+Every selector type has a different priority level.
+The browser compares selectors and chooses the one with the highest specificity score.
+1. Inline CSS
+2. ID selectors
+Class selectors
+Element selectors-->
