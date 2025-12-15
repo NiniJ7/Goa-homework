@@ -1,0 +1,35 @@
+/* CSS Reset */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* CSS Box Model
+
+ყველა ელემენტი არის ყუთი 4 შრით შიგნიდან გარეთ:
+1. content - ელემენტის შიგთავსი (ტექსტი)
+2. padding - Content- სა Border (საზღვრის) შრეებს შორის დაშორება
+3. Border - საზღვარი, შრე, რაც გამოყოფს ელემენტს მთლიანი გვერდისგან
+4. Margin - უხილავი შრე, უბრალოდ გამოიყენება სივრცის შესაქმნელად და ელემენტების ერთმანეთისგან დასაშორებლად
+*/
+
+
+.box-one {
+    background-color: #f000008d;
+    border:10px solid rgb(123, 0, 255);
+
+    width: 150px;
+    height: 150px;
+
+    padding: 20px;
+    margin: 40px;
+
+    box-sizing: border-box;
+
+}
+
+.box-two {
+    background-color: #005eff7c;
+    border-color: 0px solid #6fff00aa;
+}

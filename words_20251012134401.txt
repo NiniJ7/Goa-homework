@@ -216,3 +216,8 @@ function - კოდის ბლოკი, რომელიც ასრუ�
 lower - დაპატარავება
 upper - გადიდება
 find - პოვნა
+
+RGB - Red, Green, Blue
+Hex - თექვსმეტობითი
+measuring unit - საზომი ერთეული
+pixel - ეკრანის საზომი ერთეული

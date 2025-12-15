@@ -1,0 +1,39 @@
+input {
+    border-radius: 6px;
+    width: 15%;
+    height: 10%;
+    font-size-adjust: 0.5;
+}
+
+/* attribute selector - selector[attribute='value'] */
+input[type="text"] {
+    background-color: gray;
+}
+
+input[type="email"] {
+    background-color: aqua;
+}
+
+input[type="password"] {
+    box-shadow: 5px 5px 7px gray;
+}
+
+input[type="submit"] {
+    width: 10%;
+}
+input:hover {
+    box-shadow: 0 0 8px brown;
+}
+
+input[type="submit"]:hover {
+    box-shadow: 0 0 15px brown;
+}
+
+/*
+სელექტორის ტიპები:
+
+1. ელემენტის, id, class
+2. შთამომავალი სელექტორი
+3. multi-selector
+4. pseudo-selector
+5. attribute selector

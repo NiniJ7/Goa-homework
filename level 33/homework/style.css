@@ -1,0 +1,17 @@
+.container {
+    border: 5px solid red;
+    height: 20vh;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.child {
+    background-color: purple;
+    border: 5px solid white;
+
+    width: 150px;
+    height: 150px;
+}

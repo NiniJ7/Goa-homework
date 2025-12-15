@@ -1,0 +1,19 @@
+.first {
+    background-color: rgba(255, 0, 0, 0.258);
+    width: 10px;
+    height: 15px;
+}
+.second {
+    background-color: rgba(0, 0, 255, 0.56);
+    width: 25px;
+    height: 35px;
+}
+.third {
+    background-color: rgba(0, 255, 0, 0.335);
+    width: 5px;
+    height: 10px;
+}
+h1 {
+    color: #00ff4c2d;
+    font-size: 32;
+}

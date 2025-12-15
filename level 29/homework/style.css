@@ -1,0 +1,24 @@
+#p1 {
+    text-align: right;
+}
+#p2 {
+    text-decoration-line: overline;
+    text-decoration-style: dashed;
+    text-decoration-color: blue;
+}
+#p3 {
+    text-transform: capitalize;
+}
+h1 {
+    text-shadow: -20px -15px 4px gray ;
+}
+
+#one {
+    @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+}
+#two {
+    @import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Dancing+Script:wght@400..700&display=swap');
+}
+#three {
+    @import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=BBH+Bartle&family=Dancing+Script:wght@400..700&display=swap');
+}
